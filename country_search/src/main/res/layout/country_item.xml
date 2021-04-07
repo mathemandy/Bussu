@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:padding="@dimen/search_history_padding"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/flag"
+        android:layout_gravity="center"
+        android:layout_width="0dp"
+        android:layout_weight="0.1"
+        android:layout_height="@dimen/profile_detail_top_margin"/>
+
+    <TextView
+       android:id="@+id/name"
+        android:layout_width="0dp"
+        android:padding="@dimen/loading_card_radius"
+        android:layout_weight="0.9"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:background="?attr/selectableItemBackground"
+        tools:text="Sweden" />
+
+
+
+</LinearLayout>
+
+
+

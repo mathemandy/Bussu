@@ -1,0 +1,14 @@
+[
+  {
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/sen.svg",
+    "name": "Senegal",
+    "capital": "Dakar"
+  }
+]

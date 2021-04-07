@@ -1,0 +1,15 @@
+<resources>
+    <string name="search">Search …</string>
+    <string name="clear_search_history">Clear history</string>
+    <string name="search_history_empty_text">All Countries will appear here</string>
+    <string name="recent_searches">Country List</string>
+    <string name="retry">Retry</string>
+    <string name="empty_state_icon">Empty state icon</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="no_data">No countries found</string>
+    <string name="country_name">Name: %s</string>
+    <string name="country_capital">Capital: %s</string>
+    <string name="country_currency_code">Code: %s</string>
+    <string name="error_fetching_details">Error fetching %s\'s detail</string>
+
+</resources>
